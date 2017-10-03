@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Directories
+*packages
+*Release
+*Debug
+*Shaders
